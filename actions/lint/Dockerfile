@@ -1,4 +1,4 @@
-FROM ruby:2.4
+FROM singli/rubylint
 
 LABEL "com.github.actions.name"="Lint markdown"
 LABEL "com.github.actions.description"="Lint markdown recursively"

@@ -1,5 +1,4 @@
 # Deeplink
-
 **This feature is only supported in our iOS native app right now.**
 
 ## General information

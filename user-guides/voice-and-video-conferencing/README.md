@@ -1,8 +1,7 @@
 # Voice and Video Conferencing
-
 In Rocket.Chat you have the ability to start video and audio conferences.
 
-This is done by using [Jitsi Meet](https://jitsi.org/jitsi-meet/) through Rocket.Chat.
+This is done by using [Jitsi Meet](https://jitsi.org/jitsi-meet/) through Rocket.Chat.  
 
 > Note: For this feature to be available for normal users, the server admin must activate it before. Please see [Setting up video conferencing](../../administrator-guides/setting-up-video-conferencing)
 

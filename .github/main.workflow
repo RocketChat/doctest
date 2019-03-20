@@ -5,4 +5,7 @@ workflow "Lint and Check" {
 
 action "lint" {
   uses = "./actions/lint/"
+  env = {
+    NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  }
 }

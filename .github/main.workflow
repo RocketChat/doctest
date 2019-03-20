@@ -4,5 +4,5 @@ workflow "Lint and Check" {
 }
 
 action "lint" {
-  uses = "actions/lint"
+  uses = "./actions/lint/"
 }

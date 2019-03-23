@@ -1,9 +1,9 @@
 workflow "Lint and Check" {
   on = "push"
-  resolves = ["lint"]
+  resolves = ["md lint & site files chk"]
 }
 
-action "lint" {
+action "md lint & site files chk" {
   uses = "./actions/lint/"
   env = {
     NOKOGIRI_USE_SYSTEM_LIBRARIES = "true"

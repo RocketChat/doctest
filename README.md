@@ -4,7 +4,7 @@ layout: home
 permalink: /index.html
 ---
 
-# Rocket.Chat Docs
+# Rocket.Chat Docs TEST
 
 This is the official repository for Rocket.Chat Documentation.
 
